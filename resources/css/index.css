@@ -3,7 +3,6 @@
     font-weight: bold;
     color: white;
     text-align: center;
-    line-height:18px;  
 }
 
 .subTitle {
@@ -33,6 +32,6 @@
     padding: 20px;
 }
 
-.reduseLineHeight {
-    line-height: 10px;
+.uniformFonts {
+    font-family: Arial, Helvetica, sans-serif;
 }
