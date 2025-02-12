@@ -1,0 +1,38 @@
+.mainTitle {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    line-height:18px;  
+}
+
+.subTitle {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.mainBody {
+    background-color: rgb(235, 74, 101);
+}
+
+.iculogo {
+    /* Draw a circle outline */
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 10px solid white;
+    margin: 0 auto;
+    display: block;
+}
+
+.mainArticle {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.reduseLineHeight {
+    line-height: 10px;
+}
