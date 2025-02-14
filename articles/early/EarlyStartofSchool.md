@@ -15,7 +15,7 @@
 具体情况如下：
 - 2月19日至2月23日，要求学生“自愿参加”，实际上是变相强制所有学生到校，并收取每节课3元的费用。
 
-<a href="./resources/2024Mo2_Winter.jpg" title="2024年2月寒假"><img src="./resources/2024Mo2_Winter.jpg"></a>
+<a href="./resources/2024Mo2_Winter.jpg" title="2024年2月寒假"><img src="https://pic1.imgdb.cn/item/67af4a01d0e0a243d4ff5059.jpg"></a>
 
 ## 教育部相关政策违反情况
 
@@ -45,7 +45,7 @@
 具体违反情况如下：
 - 高中部应该在2024年9月2日开学，但该校要求在2024年8月5日开学，违反了泉州市教育局的官方文件规定。
 
-<a href="./resources/2024Mo8_Summer.jpg" title="2024年8月暑假"><img src="./resources/2024Mo8_Summer.jpg"></a>
+<a href="./resources/2024Mo8_Summer.jpg" title="2024年8月暑假"><img src="https://pic1.imgdb.cn/item/67af4a01d0e0a243d4ff505a.jpg"></a>
 
 ---
 

@@ -31,8 +31,8 @@ _以下内容均为真实发生，已取得被打学生当事人授权发布。_
 ### 事件升级
 
 <div>
-    <a href="./resources/img/security.jpg"><img src="./resources/img/security.jpg" width=40%></a>
-    <a href="./resources/img/security-1.jpg"><img src="./resources/img/security-1.jpg" width=40%></a>
+    <a href="./resources/img/security.jpg"><img src="https://pic1.imgdb.cn/item/67af49ced0e0a243d4ff5045.jpg" width=300px" width=40%></a>
+    <a href="./resources/img/security-1.jpg"><img src="https://pic1.imgdb.cn/item/67af49ced0e0a243d4ff5046.jpg" width=40%></a>
 </div>
 
 保安愤怒地开始掌掴班长，而班长见局势对自己不利，并没有做出反抗。班长在被掌掴时反复道歉，表示"对不起啦"。
@@ -50,4 +50,4 @@ _以下内容均为真实发生，已取得被打学生当事人授权发布。_
 
 请访问本项目[Github](https://github.com/FreeStudent404/FreeStudent)
 
-- 位于[此目录](https://github.com/FreeStudent404/FreeStudent/tree/main/articles/security/resources/)目录下的videos和img内
+- 位于[此目录](https://github.com/FreeStudent404/FreeStudent/tree/main/articles/security/resources/)目录下的video和img内
