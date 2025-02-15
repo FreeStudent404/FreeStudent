@@ -1,6 +1,6 @@
 <div align="center">
 
-# 二中做了什么
+# 二中提前开学
 
 </div>
 

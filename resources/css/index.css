@@ -17,7 +17,9 @@
 
 .iculogo {
     /* Draw a circle outline */
-    border-radius: 50%;
+    /* 中间的logo和外围线有空隙 */
+    padding: 5px;
+    border-radius:50%;
     width: 200px;
     height: 200px;
     border: 10px solid white;
