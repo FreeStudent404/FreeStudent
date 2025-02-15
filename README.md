@@ -30,4 +30,4 @@ _让学生们联合起来!_
 
 ### 如果你想支持这个项目且提出意见，欢迎你到[Issues](https://github.com/FreeStudent404/FreeStudent/issues)发表你的看法。
 
-### 欢迎到本项目的[Github](https://github.com/FreeStudent404/FreeStudent)为本项目点击Star。
+<!-- ### 欢迎到本项目的[Github](https://github.com/FreeStudent404/FreeStudent)为本项目点击Star。 -->
