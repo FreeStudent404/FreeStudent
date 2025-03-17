@@ -1,5 +1,10 @@
 <div align="center">
 
+
+# 目前071082.xyz已经被[中国互联网防火长城[GFW]](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)所屏蔽
+
+# 目前仅支持查看README 如果你能够搭建镜像站点，欢迎提出Issue使我加入镜像列表中
+
 # FreeStudent Project
 
 _让学生们联合起来!_
